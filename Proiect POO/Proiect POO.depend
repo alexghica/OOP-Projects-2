@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1574801634 source:e:\proietct poo 2\proiect poo\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
+1574801634 e:\proietct poo 2\proiect poo\nodheader.h
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1574800810 e:\proietct poo 2\proiect poo\nodavlheader.h
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1574773471 source:e:\proietct poo 2\proiect poo\nodheader.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
+1574796939 source:e:\proietct poo 2\proiect poo\nodavlheader.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
+1574798309 source:e:\proietct poo 2\proiect poo\abcheader.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
+1574533274 e:\proietct poo 2\proiect poo\arboreheader.h
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1574710987 e:\proietct poo 2\proiect poo\abcheader.h
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1574713594 e:\proietct poo 2\proiect poo\arboreavlheader.h
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1574801737 source:e:\proietct poo 2\proiect poo\arboreavlheader.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
+1574533274 source:e:\proietct poo 2\proiect poo\arboreheader.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	"nodheader.h"
+	"nodAVLheader.h"
+	"arboreheader.h"
+	"ABCheader.h"
+	"arboreAVLheader.h"
+
